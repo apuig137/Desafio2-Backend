@@ -1,0 +1,39 @@
+
+[
+	{
+		"title": "Jamon natural",
+		"description": "Jamon natural embasado al vacio de 150grs",
+		"price": 3500,
+		"thumnail": "url foto",
+		"code": "abc123",
+		"stock": 20,
+		"id": 1
+	},
+	{
+		"title": "Queso Parmesano",
+		"description": "Pedaso de queso Dambo embaso con un peso de 300grs",
+		"price": 3500,
+		"thumnail": "url foto",
+		"code": "abc124",
+		"stock": 20,
+		"id": 2
+	},
+	{
+		"title": "Queso Dambo 2",
+		"description": "Pedaso de queso Dambo embaso con un peso de 300grs",
+		"price": 3500,
+		"thumnail": "url foto",
+		"code": "abc125",
+		"stock": 20,
+		"id": 3
+	},
+	{
+		"title": "Queso Dambo 3",
+		"description": "Pedaso de queso Dambo embaso con un peso de 300grs",
+		"price": 3500,
+		"thumnail": "url foto",
+		"code": "abc126",
+		"stock": 20,
+		"id": 4
+	}
+]
